@@ -1,0 +1,5 @@
+# Created at 2024-03-14T12:19:57.231
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Teaching\AWS DevOps 11-15AM Batch\maven- project1\Apex-league\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
